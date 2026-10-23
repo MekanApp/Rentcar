@@ -1,0 +1,13 @@
+{
+ "items": [
+  {
+   "id": "e1",
+   "kind": "news",
+   "title": "Yeni versiya",
+   "body": "Rent Car proqramında yeniliklər mövcuddur.",
+   "start": "2026-10-24",
+   "end": "2026-12-31"
+  }
+ ],
+ "sig": "U62gkzzLmLwpbhmJuGi66BOxeCLXw_avOjN-xyhIYfe4V-3gjdtpI0kb8OBKAoNEJ1J-ISJPbdb2oAd7rgK6Cw"
+}
